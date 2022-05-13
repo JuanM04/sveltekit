@@ -1,5 +1,15 @@
 # @sveltejs/kit
 
+## 1.0.0-next.329
+
+### Patch Changes
+
+- [fix] stop flash of unstyled content when using CSS flavours ([#4882](https://github.com/sveltejs/kit/pull/4882))
+
+* [feat] more specific types for `kit.prerender.entries` config ([#4880](https://github.com/sveltejs/kit/pull/4880))
+
+- Prevent unhandled rejections when loading page modules ([#4732](https://github.com/sveltejs/kit/pull/4732))
+
 ## 1.0.0-next.328
 
 ### Patch Changes
